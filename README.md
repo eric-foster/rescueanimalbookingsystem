@@ -9,7 +9,7 @@ This prject is designed for a fictional Pet Rescue Company
 ## How To Use ...
 To use this booking system, utilize the following steps to download all files needed:
 1. Fork this project
-2. Download the prject by going to the homepage of the forked project, clicking code, and selecting "Download ZIP"
+2. Download the project by going to the homepage of the forked project, clicking code, and selecting "Download ZIP"
 3. Go to your File manager and extract the zipped files to your desired file path
 4. Open the folder in your favorite code editor (I like using Visual Studio Code but any editor works)
 5. Run the program
