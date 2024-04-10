@@ -21,4 +21,4 @@ The program should prompt you with a menu of options to select from. Have fun.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## What I Learned ....
-By building this project, I was able to showcase my understanding of Java concepts, utilizing clean and industry standard methods and concepts to build a complex terminal booking system for a fictional company. (Academic Project for the completion of IT-145 Foundations in Application Development. 
+By building this project, I was able to showcase my understanding of Java concepts, utilizing clean and industry standard methods and concepts to build a complex terminal booking system for a fictional company. (Academic Project for the completion of IT-145 Foundations in Application Development.)
