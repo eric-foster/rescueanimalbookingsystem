@@ -4,7 +4,7 @@ A booking system ran through terminal in order to do the following:
 2. Reserve an animal for service
 3. Print a list of all dogs, monkeys, available animals not yet reserved, and unavailable animals already reserved and in service
 
-This prject is designed for a fictional Pet Rescue Company
+This project is designed for a fictional Pet Rescue Company
 
 ## How To Use ...
 To use this booking system, utilize the following steps to download all files needed:
